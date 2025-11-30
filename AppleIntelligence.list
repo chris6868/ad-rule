@@ -1,6 +1,6 @@
 # AppleIntelligence分流
 # Update 20251121
-
+# https://raw.githubusercontent.com/ddgksf2013/Filter/refs/heads/master/AppleIntelligence.list
 
 DOMAIN-SUFFIX, gateway.icloud.com
 DOMAIN-SUFFIX, apple-relay.apple.com
