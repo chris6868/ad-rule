@@ -1,10 +1,16 @@
 DOMAIN-SUFFIX,okemby.org
-DOMAIN-SUFFIX,hao5.de
-DOMAIN-SUFFIX,tufei.de
-DOMAIN-SUFFIX,yong9.de
+DOMAIN-SUFFIX,link00.okemby.org
+DOMAIN-SUFFIX,link01.okemby.org
 DOMAIN-SUFFIX,jingzhe.pro
+DOMAIN-SUFFIX,emby.jingzhe.pro
 DOMAIN-SUFFIX,indevs.in
-DOMAIN-SUFFIX,dolby.dpdns.org
+DOMAIN-SUFFIX,ok.liuer.indevs.in
+DOMAIN-SUFFIX,dpdns.org
+DOMAIN-SUFFIX,*.dpdns.org
+DOMAIN-SUFFIX,auto.embys.dpdns.org
+DOMAIN-SUFFIX,rochub.xyz
+DOMAIN-SUFFIX,emby.rochub.xyz
+
 # Baidu/iqiyi
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baidubcr.com
