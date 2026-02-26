@@ -10,6 +10,13 @@ DOMAIN-SUFFIX,*.dpdns.org
 DOMAIN-SUFFIX,auto.embys.dpdns.org
 DOMAIN-SUFFIX,rochub.xyz
 DOMAIN-SUFFIX,emby.rochub.xyz
+DOMAIN-SUFFIX,dolby.dpdns.org
+DOMAIN-SUFFIX,auto.dolby.dpdns.org
+DOMAIN-SUFFIX,liuer.indevs.in
+DOMAIN-SUFFIX,auto.liuer.indevs.in
+DOMAIN-SUFFIX,embys.dpdns.org
+DOMAIN-SUFFIX,auto.embys.dpdns.org
+DOMAIN-SUFFIX,fd.dirige.de5.net
 
 # Baidu/iqiyi
 DOMAIN-SUFFIX,baidu.com
