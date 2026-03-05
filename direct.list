@@ -27,6 +27,10 @@ DOMAIN-SUFFIX,apm-ios.zhipin.com
 DOMAIN-KEYWORD,zhipin
 DOMAIN-SUFFIX,bosszhipin.com
 DOMAIN-SUFFIX,*.bosszhipin.com
+DOMAIN-SUFFIX,img.bosszhipin.com
+DOMAIN-SUFFIX,img2.bosszhipin.com
+IP-CIDR,60.205.178.155/24
+IP-CIDR,119.29.29.98/24
 
 # Baidu/iqiyi
 DOMAIN-SUFFIX,baidu.com
