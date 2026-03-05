@@ -24,6 +24,9 @@ DOMAIN-SUFFIX,*.zhipin.com
 DOMAIN-SUFFIX,logapi-ios.zhipin.com
 DOMAIN-SUFFIX,api-ios.zhipin.com
 DOMAIN-SUFFIX,apm-ios.zhipin.com
+DOMAIN-KEYWORD,zhipin
+DOMAIN-SUFFIX,bosszhipin.com
+DOMAIN-SUFFIX,*.bosszhipin.com
 
 # Baidu/iqiyi
 DOMAIN-SUFFIX,baidu.com
