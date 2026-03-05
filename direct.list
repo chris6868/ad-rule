@@ -18,6 +18,13 @@ DOMAIN-SUFFIX,embys.dpdns.org
 DOMAIN-SUFFIX,auto.embys.dpdns.org
 DOMAIN-SUFFIX,fd.dirige.de5.net
 
+#boss直聘
+DOMAIN-SUFFIX,zhipin.com
+DOMAIN-SUFFIX,*.zhipin.com
+DOMAIN-SUFFIX,logapi-ios.zhipin.com
+DOMAIN-SUFFIX,api-ios.zhipin.com
+DOMAIN-SUFFIX,apm-ios.zhipin.com
+
 # Baidu/iqiyi
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baidubcr.com
