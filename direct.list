@@ -31,6 +31,7 @@ DOMAIN-SUFFIX,img.bosszhipin.com
 DOMAIN-SUFFIX,img2.bosszhipin.com
 IP-CIDR,60.205.178.155/24
 IP-CIDR,119.29.29.98/24
+DOMAIN-SUFFIX,sofire.baidu.com
 
 # Baidu/iqiyi
 DOMAIN-SUFFIX,baidu.com
