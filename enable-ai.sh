@@ -395,15 +395,15 @@ check_sip_status() {
     echo ""
     echo -e "${BLUE}==============================================${RESET}"
     echo -e "$MSG_SIP_CHECK"
-    if [[ $(csrutil status) == *"System Integrity Protection status: disabled."* ]]; then
-        echo -e "$MSG_SIP_ENABLED_1"; echo -e "$MSG_SIP_ENABLED_2"; echo -e "$MSG_SIP_ENABLED_3"
-        echo -e "$MSG_SIP_ENABLED_4_1"; echo -e "$MSG_SIP_ENABLED_4_2"; echo -e "$MSG_SIP_ENABLED_4_3"
-        echo -e "$MSG_SIP_ENABLED_4_4"; echo -e "$MSG_SIP_ENABLED_5"
-        echo -e "${BLUE}==============================================${RESET}"
-        exit 1
-    else
+    #if [[ $(csrutil status) != *"System Integrity Protection status: disabled."* ]]; then
+    #    echo -e "$MSG_SIP_ENABLED_1"; echo -e "$MSG_SIP_ENABLED_2"; echo -e "$MSG_SIP_ENABLED_3"
+    #    echo -e "$MSG_SIP_ENABLED_4_1"; echo -e "$MSG_SIP_ENABLED_4_2"; echo -e "$MSG_SIP_ENABLED_4_3"
+    #    echo -e "$MSG_SIP_ENABLED_4_4"; echo -e "$MSG_SIP_ENABLED_5"
+    #    echo -e "${BLUE}==============================================${RESET}"
+    #    exit 1
+    #else
         echo -e "$MSG_SIP_DISABLED"
-    fi
+    #fi
 }
 
 # --- Function to set a plist value ONLY if the key already exists (for Method 2) ---
