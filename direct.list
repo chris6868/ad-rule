@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,net-node.cc.cd
 DOMAIN-SUFFIX,*.rochub.xyz
 DOMAIN-SUFFIX,emby.cf.rochub.xyz
 DOMAIN-SUFFIX,fd-emby.cc.cd
+DOMAIN-SUFFIX,memby.ccwu.cc
 
 #boss直聘
 DOMAIN-SUFFIX,zhipin.com
