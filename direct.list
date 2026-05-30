@@ -22,6 +22,12 @@ DOMAIN-SUFFIX,*.yusen6.ccwu.cc
 DOMAIN-SUFFIX,yusen8.ccwu.cc
 DOMAIN-SUFFIX,*.yusen8.ccwu.cc
 DOMAIN-SUFFIX,yusen.us.ci
+DOMAIN-SUFFIX,yusen.cyou
+DOMAIN-SUFFIX,yfamilys.com
+DOMAIN-SUFFIX,inemby.us.ci
+DOMAIN-SUFFIX,*.inemby.us.ci
+DOMAIN-SUFFIX,lunarisvault.com
+DOMAIN-SUFFIX,*.lunarisvault.com
 
 #boss直聘
 DOMAIN-SUFFIX,zhipin.com
