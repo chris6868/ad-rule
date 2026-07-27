@@ -16,18 +16,15 @@ DOMAIN-SUFFIX,*.okemby.org
 DOMAIN-SUFFIX,feiyue.lol
 DOMAIN-SUFFIX,*.feiyue.lol
 DOMAIN-SUFFIX,jingzhe.pro
-DOMAIN-SUFFIX,hgemby.qzz.io
-DOMAIN-SUFFIX,yusen6.ccwu.cc
-DOMAIN-SUFFIX,*.yusen6.ccwu.cc
-DOMAIN-SUFFIX,yusen8.ccwu.cc
-DOMAIN-SUFFIX,*.yusen8.ccwu.cc
-DOMAIN-SUFFIX,yusen.us.ci
-DOMAIN-SUFFIX,yusen.cyou
-DOMAIN-SUFFIX,yfamilys.com
+DOMAIN-SUFFIX,jingzhe.pro
+DOMAIN-SUFFIX,emby.60442173.xyz
+DOMAIN-SUFFIX,*.60442173.xyz
+DOMAIN-SUFFIX,eb.zzm.li
+DOMAIN-SUFFIX,*.zzm.li
+DOMAIN-SUFFIX,eco.potdot.de
+DOMAIN-SUFFIX,*.potdot.de
 DOMAIN-SUFFIX,inemby.us.ci
 DOMAIN-SUFFIX,*.inemby.us.ci
-DOMAIN-SUFFIX,lunarisvault.com
-DOMAIN-SUFFIX,*.lunarisvault.com
 
 #boss直聘
 DOMAIN-SUFFIX,zhipin.com
