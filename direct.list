@@ -25,6 +25,9 @@ DOMAIN-SUFFIX,eco.potdot.de
 DOMAIN-SUFFIX,*.potdot.de
 DOMAIN-SUFFIX,inemby.us.ci
 DOMAIN-SUFFIX,*.inemby.us.ci
+DOMAIN-SUFFIX,*.yusen.us.ci
+DOMAIN-SUFFIX,*.yusen6.ccwu.cc
+DOMAIN-SUFFIX,*.teawaya.com
 
 #boss直聘
 DOMAIN-SUFFIX,zhipin.com
