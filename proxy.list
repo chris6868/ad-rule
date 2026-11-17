@@ -1,5 +1,13 @@
+# 现有个人代理规则与配置内普通代理补充；由主配置指定 PROXY。
+# 整理日期：2026-11-17
+# 规则数：7
+# 每行仅写规则，不写 [Rule] 段或策略名称；策略在主配置的 RULE-SET 行设置。
+# 已合并当前仓库 proxy.list，去重并将 DOMAIN-SUFFIX,*.域名 改为裸域名。
+
 DOMAIN-SUFFIX,agentrouter.org
-DOMAIN-SUFFIX,*.agentrouter.org
 DOMAIN-SUFFIX,ps.air-outer.com
-DOMAIN-SUFFIX,*.air-outer.com
-DOMAIN-SUFFIX,*.ps.air-outer.com
+DOMAIN-SUFFIX,air-outer.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
