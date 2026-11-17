@@ -1,58 +1,48 @@
+# 现有个人直连规则与配置内自定义直连补充；由主配置指定 DIRECT。
+# 整理日期：2026-11-17
+# 规则数：386
+# 每行仅写规则，不写 [Rule] 段或策略名称；策略在主配置的 RULE-SET 行设置。
+# 已合并当前仓库 direct.list，去重并将 DOMAIN-SUFFIX,*.域名 改为裸域名。
+
 DOMAIN-SUFFIX,net-node.us.ci
 DOMAIN-SUFFIX,net-node.cc.cd
-
-#emby
 DOMAIN-SUFFIX,fd-emby.cc.cd
 DOMAIN-SUFFIX,memby.ccwu.cc
 DOMAIN-SUFFIX,emby.noomi.eu.cc
 DOMAIN-SUFFIX,fd.dirige.de5.net
 DOMAIN-SUFFIX,auto.liuerao.dpdns.org
 DOMAIN-SUFFIX,auto.dolby.dpdns.org
-
 DOMAIN-SUFFIX,rochub.xyz
-DOMAIN-SUFFIX,*.rochub.xyz
 DOMAIN-SUFFIX,okemby.org
-DOMAIN-SUFFIX,*.okemby.org
 DOMAIN-SUFFIX,feiyue.lol
-DOMAIN-SUFFIX,*.feiyue.lol
-DOMAIN-SUFFIX,jingzhe.pro
 DOMAIN-SUFFIX,jingzhe.pro
 DOMAIN-SUFFIX,emby.60442173.xyz
-DOMAIN-SUFFIX,*.60442173.xyz
+DOMAIN-SUFFIX,60442173.xyz
 DOMAIN-SUFFIX,eb.zzm.li
-DOMAIN-SUFFIX,*.zzm.li
+DOMAIN-SUFFIX,zzm.li
 DOMAIN-SUFFIX,eco.potdot.de
-DOMAIN-SUFFIX,*.potdot.de
+DOMAIN-SUFFIX,potdot.de
 DOMAIN-SUFFIX,inemby.us.ci
-DOMAIN-SUFFIX,*.inemby.us.ci
-DOMAIN-SUFFIX,*.yusen.us.ci
-DOMAIN-SUFFIX,*.yusen6.ccwu.cc
-DOMAIN-SUFFIX,*.teawaya.com
-
-#boss直聘
+DOMAIN-SUFFIX,yusen.us.ci
+DOMAIN-SUFFIX,yusen6.ccwu.cc
+DOMAIN-SUFFIX,teawaya.com
 DOMAIN-SUFFIX,zhipin.com
-DOMAIN-SUFFIX,*.zhipin.com
 DOMAIN-SUFFIX,logapi-ios.zhipin.com
 DOMAIN-SUFFIX,api-ios.zhipin.com
 DOMAIN-SUFFIX,apm-ios.zhipin.com
 DOMAIN-KEYWORD,zhipin
 DOMAIN-SUFFIX,bosszhipin.com
-DOMAIN-SUFFIX,*.bosszhipin.com
 DOMAIN-SUFFIX,img.bosszhipin.com
 DOMAIN-SUFFIX,img2.bosszhipin.com
 IP-CIDR,60.205.178.155/24
 IP-CIDR,119.29.29.98/24
 DOMAIN-SUFFIX,sofire.baidu.com
-
-# Baidu/iqiyi
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baidubcr.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,yunjiasu-cdn.net
-# Alibaba
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,alicdn.com
-# Accelerate most visited sites
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
 DOMAIN,download.jetbrains.com
@@ -381,7 +371,6 @@ DOMAIN-SUFFIX,zmzapi.com
 DOMAIN-SUFFIX,zmzapi.net
 DOMAIN-SUFFIX,zmzfile.com
 DOMAIN-SUFFIX,manmanbuy.com
-# Remove these lines below if you don't have trouble accessing Apple resources
 DOMAIN,www-cdn.icloud.com.akadns.net
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple-cloudkit.com
@@ -397,7 +386,6 @@ DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
-# LAN
 IP-CIDR,192.168.0.0/16
 IP-CIDR,10.0.0.0/8
 IP-CIDR,172.16.0.0/12
