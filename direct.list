@@ -386,6 +386,9 @@ DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,pinduoduo.com
+DOMAIN-SUFFIX,yangkeduo.com
+DOMAIN-SUFFIX,pddpic.com
 IP-CIDR,192.168.0.0/16
 IP-CIDR,10.0.0.0/8
 IP-CIDR,172.16.0.0/12
