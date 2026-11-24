@@ -53,6 +53,12 @@ DOMAIN,production-copilot-host-westus.webpubsub.azure.com
 DOMAIN,copilotprodattachments.blob.core.windows.net
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
+DOMAIN-SUFFIX,aicode.googleapis.com
+DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
+DOMAIN-SUFFIX,cloudaicompanion.googleapis.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
